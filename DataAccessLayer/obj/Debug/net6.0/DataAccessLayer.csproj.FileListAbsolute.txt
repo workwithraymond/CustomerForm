@@ -1,0 +1,15 @@
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\bin\Debug\net6.0\DomainModel.dll
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\bin\Debug\net6.0\DomainModel.pdb
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\DataAcce.E67BD773.Up2Date
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
