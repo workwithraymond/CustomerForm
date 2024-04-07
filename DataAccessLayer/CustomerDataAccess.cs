@@ -28,5 +28,18 @@ namespace DataAccessLayer
                 connection.Execute(query, customer);
             }
         }
+        public List<Customers> GetCustomers()
+        {
+            string connectionString = ConfigurationManager.ConnectionStrings
+                ["CustomerFormConnectionString"].ConnectionString;
+
+            string query = "select * from CustomerForm";
+
+            using (IDbConnection connection = new SqlConnection(connectionString))
+            {
+                List<Customers> result = connection.Query<Customers>(query).ToList();
+                return result;
+            }
+        }
     }
 }

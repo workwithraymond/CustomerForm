@@ -26,7 +26,7 @@ namespace CustomerForm
             db.AddCustomer(customers);
             ClearAllFields();
 
-         
+
         }
         private void ClearAllFields()
         {
@@ -34,6 +34,17 @@ namespace CustomerForm
             LastNameText.Text = default;
             EmailText.Text = default;
             PhoneNumberText.Text = default;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            RefreshGridData();
+        }
+        private void RefreshGridData()
+        {
+            CustomerDataAccess db = new CustomerDataAccess();
+            List<Customers> customers = db.GetCustomers();
+            CustomerFormGrid.DataSource = customers;
         }
     }
 }

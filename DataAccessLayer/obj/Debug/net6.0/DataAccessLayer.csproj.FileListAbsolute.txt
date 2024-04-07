@@ -13,3 +13,4 @@ C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\
 C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
 C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
 C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\rdelrosario\source\repos\CustomerForm\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.sourcelink.json
