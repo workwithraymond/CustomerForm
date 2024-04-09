@@ -136,6 +136,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(2088, 833);
             Controls.Add(CustomerFormGrid);
             Controls.Add(ButtonText);
