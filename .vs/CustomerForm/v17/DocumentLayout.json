@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\customerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|solutionrelative:customerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\customerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|solutionrelative:customerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\customerform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|solutionrelative:customerform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|c:\\users\\rdelrosario\\source\\repos\\customerform\\customerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|solutionrelative:customerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{70C10A46-0A84-4BA7-8B7E-69A0BBC07D0B}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\rdelrosario\\source\\repos\\customerform\\dataaccesslayer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C10A46-0A84-4BA7-8B7E-69A0BBC07D0B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70C10A46-0A84-4BA7-8B7E-69A0BBC07D0B}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{70C10A46-0A84-4BA7-8B7E-69A0BBC07D0B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70C10A46-0A84-4BA7-8B7E-69A0BBC07D0B}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\dataaccesslayer\\customerdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70C10A46-0A84-4BA7-8B7E-69A0BBC07D0B}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|c:\\users\\rdelrosario\\source\\repos\\customerform\\customerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|solutionrelative:customerform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{922B0815-86F3-4787-923D-9EF6EF0C1C30}|CustomerForm\\CustomerForm.csproj|C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\customerform\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -46,17 +46,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\CustomerForm\\Form1.cs",
               "RelativeDocumentMoniker": "CustomerForm\\Form1.cs",
               "ToolTip": "C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\CustomerForm\\Form1.cs",
               "RelativeToolTip": "CustomerForm\\Form1.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAA7wB8AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T21:01:14.857Z",
               "IsPinned": true,
@@ -89,19 +89,21 @@
               "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-06T14:11:32.665Z"
+              "WhenOpened": "2024-04-06T14:11:32.665Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CustomerDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\DataAccessLayer\\CustomerDataAccess.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDataAccess.cs",
-              "ToolTip": "C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\DataAccessLayer\\CustomerDataAccess.cs",
-              "RelativeToolTip": "DataAccessLayer\\CustomerDataAccess.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAywCgAAAAeAAAA",
+              "DocumentIndex": 2,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T14:12:03.544Z"
+              "WhenOpened": "2024-04-06T14:12:03.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -141,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\rdelrosario\\source\\repos\\CustomerForm\\CustomerForm\\Form1.cs",
               "RelativeDocumentMoniker": "CustomerForm\\Form1.cs",

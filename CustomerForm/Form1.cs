@@ -1,5 +1,5 @@
 using System.Text.RegularExpressions;
-using DataAccessLayer;
+using DataAccessLayer.Repositories;
 using DomainModel.Models;
 
 namespace CustomerForm
@@ -22,7 +22,7 @@ namespace CustomerForm
             customers.Email = EmailText.Text;
             customers.PhoneNumber = phoneNumber;
 
-            CustomerDataAccess db = new CustomerDataAccess();
+            CustomerRepository db = new CustomerRepository();
             db.AddCustomer(customers);
             ClearAllFields();
 
@@ -42,7 +42,7 @@ namespace CustomerForm
         }
         private void RefreshGridData()
         {
-            CustomerDataAccess db = new CustomerDataAccess();
+            CustomerRepository db = new CustomerRepository();
             List<Customers> customers = db.GetCustomers();
             CustomerFormGrid.DataSource = customers;
         }

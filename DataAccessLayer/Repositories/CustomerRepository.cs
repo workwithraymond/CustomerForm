@@ -10,9 +10,9 @@ using Dapper;
 using DomainModel.Models;
 
 
-namespace DataAccessLayer
+namespace DataAccessLayer.Repositories
 {
-    public class CustomerDataAccess
+    public class CustomerRepository
     {
         public void AddCustomer(Customers customer)
         {
