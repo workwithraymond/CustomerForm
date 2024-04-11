@@ -7,12 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Dapper;
+using DataAccessLayer.Contracts;
 using DomainModel.Models;
 
 
 namespace DataAccessLayer.Repositories
 {
-    public class CustomerRepository
+    public class CustomerRepository : ICustomerRepository
     {
         public void AddCustomer(Customers customer)
         {
